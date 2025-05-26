@@ -1,0 +1,121 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Users\Klevis> cd G:\code\
+PS G:\code> dir
+PS G:\code> mkdir HelloWorld
+
+
+    Directory: G:\code
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        26/05/2025     18:34                HelloWorld
+
+
+PS G:\code> cd .\HelloWorld\
+PS G:\code\HelloWorld> dir
+PS G:\code\HelloWorld> dotnet
+
+Usage: dotnet [options]
+Usage: dotnet [path-to-application]
+
+Options:
+  -h|--help         Display help.
+  --info            Display .NET information.
+  --list-sdks       Display the installed SDKs.
+  --list-runtimes   Display the installed runtimes.
+
+path-to-application:
+  The path to an application .dll file to execute.
+PS G:\code\HelloWorld> dotnet new
+The 'dotnet new' command creates a .NET project based on a template.
+
+Common templates are:
+Template Name      Short Name  Language    Tags
+-----------------  ----------  ----------  ----------------------
+Blazor Web App     blazor      [C#]        Web/Blazor/WebAssembly
+Class Library      classlib    [C#],F#,VB  Common/Library
+Console App        console     [C#],F#,VB  Common/Console
+Windows Forms App  winforms    [C#],VB     Common/WinForms
+WPF Application    wpf         [C#],VB     Common/WPF
+
+An example would be:
+   dotnet new console
+
+Display template options with:
+   dotnet new console -h
+Display all installed templates with:
+   dotnet new list
+Display templates available on NuGet.org with:
+   dotnet new search web
+
+PS G:\code\HelloWorld> dotnet new console
+The template "Console App" was created successfully.
+
+Processing post-creation actions...
+Restoring G:\code\HelloWorld\HelloWorld.csproj:
+Restore succeeded.
+
+
+PS G:\code\HelloWorld> dir
+
+
+    Directory: G:\code\HelloWorld
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        26/05/2025     18:36                obj
+-a----        26/05/2025     18:36            252 HelloWorld.csproj
+-a----        26/05/2025     18:36            105 Program.cs
+
+
+PS G:\code\HelloWorld> dotnet run
+Hello, World!
+PS G:\code\HelloWorld> dir
+
+
+    Directory: G:\code\HelloWorld
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        26/05/2025     18:36                bin
+d-----        26/05/2025     18:36                obj
+-a----        26/05/2025     18:36            252 HelloWorld.csproj
+-a----        26/05/2025     18:36            105 Program.cs
+
+
+PS G:\code\HelloWorld> dotnet run
+Hello, World!
+PS G:\code\HelloWorld> notepad
+PS G:\code\HelloWorld> notepad .\Program.cs
+PS G:\code\HelloWorld> dir
+
+
+    Directory: G:\code\HelloWorld
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        26/05/2025     18:36                bin
+d-----        26/05/2025     18:36                obj
+-a----        26/05/2025     18:36            252 HelloWorld.csproj
+-a----        26/05/2025     18:38            154 Program.cs
+
+
+PS G:\code\HelloWorld> dotnet run
+Hello, World!I just editied this after opening in notepad
+PS G:\code\HelloWorld> code
+PS G:\code\HelloWorld> code .
+PS G:\code\HelloWorld> dotnet run
+Hello, World!
+ I just editied this after opening in notepad
+PS G:\code\HelloWorld> dotnet run
+Hello, World!
+I just editied this after opening in notepad
+PS G:\code\HelloWorld>
