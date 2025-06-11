@@ -1,0 +1,15 @@
+G:\code\C#\Pt.3\Replace\bin\Debug\net9.0\Replace.exe
+G:\code\C#\Pt.3\Replace\bin\Debug\net9.0\Replace.deps.json
+G:\code\C#\Pt.3\Replace\bin\Debug\net9.0\Replace.runtimeconfig.json
+G:\code\C#\Pt.3\Replace\bin\Debug\net9.0\Replace.dll
+G:\code\C#\Pt.3\Replace\bin\Debug\net9.0\Replace.pdb
+G:\code\C#\Pt.3\Replace\obj\Debug\net9.0\Replace.GeneratedMSBuildEditorConfig.editorconfig
+G:\code\C#\Pt.3\Replace\obj\Debug\net9.0\Replace.AssemblyInfoInputs.cache
+G:\code\C#\Pt.3\Replace\obj\Debug\net9.0\Replace.AssemblyInfo.cs
+G:\code\C#\Pt.3\Replace\obj\Debug\net9.0\Replace.csproj.CoreCompileInputs.cache
+G:\code\C#\Pt.3\Replace\obj\Debug\net9.0\Replace.sourcelink.json
+G:\code\C#\Pt.3\Replace\obj\Debug\net9.0\Replace.dll
+G:\code\C#\Pt.3\Replace\obj\Debug\net9.0\refint\Replace.dll
+G:\code\C#\Pt.3\Replace\obj\Debug\net9.0\Replace.pdb
+G:\code\C#\Pt.3\Replace\obj\Debug\net9.0\Replace.genruntimeconfig.cache
+G:\code\C#\Pt.3\Replace\obj\Debug\net9.0\ref\Replace.dll
