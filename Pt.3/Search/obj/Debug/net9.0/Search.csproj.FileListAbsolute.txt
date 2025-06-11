@@ -1,0 +1,15 @@
+g:\code\C#\Pt.3\Search\bin\Debug\net9.0\Search.exe
+G:\code\C#\Pt.3\Search\bin\Debug\net9.0\Search.deps.json
+G:\code\C#\Pt.3\Search\bin\Debug\net9.0\Search.runtimeconfig.json
+g:\code\C#\Pt.3\Search\bin\Debug\net9.0\Search.dll
+g:\code\C#\Pt.3\Search\bin\Debug\net9.0\Search.pdb
+g:\code\C#\Pt.3\Search\obj\Debug\net9.0\Search.GeneratedMSBuildEditorConfig.editorconfig
+g:\code\C#\Pt.3\Search\obj\Debug\net9.0\Search.AssemblyInfoInputs.cache
+g:\code\C#\Pt.3\Search\obj\Debug\net9.0\Search.AssemblyInfo.cs
+g:\code\C#\Pt.3\Search\obj\Debug\net9.0\Search.csproj.CoreCompileInputs.cache
+g:\code\C#\Pt.3\Search\obj\Debug\net9.0\Search.sourcelink.json
+g:\code\C#\Pt.3\Search\obj\Debug\net9.0\Search.dll
+g:\code\C#\Pt.3\Search\obj\Debug\net9.0\refint\Search.dll
+g:\code\C#\Pt.3\Search\obj\Debug\net9.0\Search.pdb
+G:\code\C#\Pt.3\Search\obj\Debug\net9.0\Search.genruntimeconfig.cache
+G:\code\C#\Pt.3\Search\obj\Debug\net9.0\ref\Search.dll
