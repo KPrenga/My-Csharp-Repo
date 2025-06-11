@@ -1,0 +1,9 @@
+Trim Example usage.
+
+Before Trim:
+
+PS G:\code\C#\Pt.3>  & 'c:\Users\Klevis\.vscode\extensions\ms-dotnettools.csharp-2.80.16-win32-x64\.debugger\x86_64\vsdbg.exe' '--interpreter=vscode' '--connection=eb66e5f892a74130979236d8079ce4b5'
+     Hello, Dave!     
+My friends are Maria and Scott
+PS G:\code\C#\Pt.3> 
+

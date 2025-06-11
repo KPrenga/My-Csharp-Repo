@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Dave!");
+String welcomeMessage = "     Hello, Dave!     ";
+Console.WriteLine($"{welcomeMessage}");
 
 string firstFriend = "Maria";
 string secondFriend = "Scott";
