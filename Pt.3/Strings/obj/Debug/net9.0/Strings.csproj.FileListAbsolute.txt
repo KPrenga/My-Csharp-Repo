@@ -1,0 +1,15 @@
+G:\code\C#\Pt.3\Strings\bin\Debug\net9.0\Strings.exe
+G:\code\C#\Pt.3\Strings\bin\Debug\net9.0\Strings.deps.json
+G:\code\C#\Pt.3\Strings\bin\Debug\net9.0\Strings.runtimeconfig.json
+G:\code\C#\Pt.3\Strings\bin\Debug\net9.0\Strings.dll
+G:\code\C#\Pt.3\Strings\bin\Debug\net9.0\Strings.pdb
+G:\code\C#\Pt.3\Strings\obj\Debug\net9.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+G:\code\C#\Pt.3\Strings\obj\Debug\net9.0\Strings.AssemblyInfoInputs.cache
+G:\code\C#\Pt.3\Strings\obj\Debug\net9.0\Strings.AssemblyInfo.cs
+G:\code\C#\Pt.3\Strings\obj\Debug\net9.0\Strings.csproj.CoreCompileInputs.cache
+G:\code\C#\Pt.3\Strings\obj\Debug\net9.0\Strings.sourcelink.json
+G:\code\C#\Pt.3\Strings\obj\Debug\net9.0\Strings.dll
+G:\code\C#\Pt.3\Strings\obj\Debug\net9.0\refint\Strings.dll
+G:\code\C#\Pt.3\Strings\obj\Debug\net9.0\Strings.pdb
+G:\code\C#\Pt.3\Strings\obj\Debug\net9.0\Strings.genruntimeconfig.cache
+G:\code\C#\Pt.3\Strings\obj\Debug\net9.0\ref\Strings.dll
