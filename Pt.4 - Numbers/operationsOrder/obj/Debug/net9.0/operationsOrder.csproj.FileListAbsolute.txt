@@ -1,0 +1,15 @@
+g:\code\C#\Pt.4 - Numbers\operationsOrder\bin\Debug\net9.0\operationsOrder.exe
+G:\code\C#\Pt.4 - Numbers\operationsOrder\bin\Debug\net9.0\operationsOrder.deps.json
+G:\code\C#\Pt.4 - Numbers\operationsOrder\bin\Debug\net9.0\operationsOrder.runtimeconfig.json
+g:\code\C#\Pt.4 - Numbers\operationsOrder\bin\Debug\net9.0\operationsOrder.dll
+g:\code\C#\Pt.4 - Numbers\operationsOrder\bin\Debug\net9.0\operationsOrder.pdb
+g:\code\C#\Pt.4 - Numbers\operationsOrder\obj\Debug\net9.0\operationsOrder.GeneratedMSBuildEditorConfig.editorconfig
+g:\code\C#\Pt.4 - Numbers\operationsOrder\obj\Debug\net9.0\operationsOrder.AssemblyInfoInputs.cache
+g:\code\C#\Pt.4 - Numbers\operationsOrder\obj\Debug\net9.0\operationsOrder.AssemblyInfo.cs
+g:\code\C#\Pt.4 - Numbers\operationsOrder\obj\Debug\net9.0\operationsOrder.csproj.CoreCompileInputs.cache
+g:\code\C#\Pt.4 - Numbers\operationsOrder\obj\Debug\net9.0\operationsOrder.sourcelink.json
+g:\code\C#\Pt.4 - Numbers\operationsOrder\obj\Debug\net9.0\operationsOrder.dll
+g:\code\C#\Pt.4 - Numbers\operationsOrder\obj\Debug\net9.0\refint\operationsOrder.dll
+g:\code\C#\Pt.4 - Numbers\operationsOrder\obj\Debug\net9.0\operationsOrder.pdb
+G:\code\C#\Pt.4 - Numbers\operationsOrder\obj\Debug\net9.0\operationsOrder.genruntimeconfig.cache
+G:\code\C#\Pt.4 - Numbers\operationsOrder\obj\Debug\net9.0\ref\operationsOrder.dll
