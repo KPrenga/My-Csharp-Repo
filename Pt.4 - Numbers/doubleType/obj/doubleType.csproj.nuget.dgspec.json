@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\code\\C#\\Pt.4 - Numbers\\doubleType\\doubleType.csproj": {}
+    "g:\\code\\C#\\Pt.4 - Numbers\\doubleType\\doubleType.csproj": {}
   },
   "projects": {
-    "G:\\code\\C#\\Pt.4 - Numbers\\doubleType\\doubleType.csproj": {
+    "g:\\code\\C#\\Pt.4 - Numbers\\doubleType\\doubleType.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\code\\C#\\Pt.4 - Numbers\\doubleType\\doubleType.csproj",
+        "projectUniqueName": "g:\\code\\C#\\Pt.4 - Numbers\\doubleType\\doubleType.csproj",
         "projectName": "doubleType",
-        "projectPath": "G:\\code\\C#\\Pt.4 - Numbers\\doubleType\\doubleType.csproj",
+        "projectPath": "g:\\code\\C#\\Pt.4 - Numbers\\doubleType\\doubleType.csproj",
         "packagesPath": "C:\\Users\\Klevis\\.nuget\\packages\\",
-        "outputPath": "G:\\code\\C#\\Pt.4 - Numbers\\doubleType\\obj\\",
+        "outputPath": "g:\\code\\C#\\Pt.4 - Numbers\\doubleType\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Klevis\\AppData\\Roaming\\NuGet\\NuGet.Config"

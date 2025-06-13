@@ -1,0 +1,15 @@
+g:\code\C#\Pt.4 - Numbers\doubleType\bin\Debug\net9.0\doubleType.exe
+g:\code\C#\Pt.4 - Numbers\doubleType\bin\Debug\net9.0\doubleType.deps.json
+g:\code\C#\Pt.4 - Numbers\doubleType\bin\Debug\net9.0\doubleType.runtimeconfig.json
+g:\code\C#\Pt.4 - Numbers\doubleType\bin\Debug\net9.0\doubleType.dll
+g:\code\C#\Pt.4 - Numbers\doubleType\bin\Debug\net9.0\doubleType.pdb
+g:\code\C#\Pt.4 - Numbers\doubleType\obj\Debug\net9.0\doubleType.GeneratedMSBuildEditorConfig.editorconfig
+g:\code\C#\Pt.4 - Numbers\doubleType\obj\Debug\net9.0\doubleType.AssemblyInfoInputs.cache
+g:\code\C#\Pt.4 - Numbers\doubleType\obj\Debug\net9.0\doubleType.AssemblyInfo.cs
+g:\code\C#\Pt.4 - Numbers\doubleType\obj\Debug\net9.0\doubleType.csproj.CoreCompileInputs.cache
+g:\code\C#\Pt.4 - Numbers\doubleType\obj\Debug\net9.0\doubleType.sourcelink.json
+g:\code\C#\Pt.4 - Numbers\doubleType\obj\Debug\net9.0\doubleType.dll
+g:\code\C#\Pt.4 - Numbers\doubleType\obj\Debug\net9.0\refint\doubleType.dll
+g:\code\C#\Pt.4 - Numbers\doubleType\obj\Debug\net9.0\doubleType.pdb
+g:\code\C#\Pt.4 - Numbers\doubleType\obj\Debug\net9.0\doubleType.genruntimeconfig.cache
+g:\code\C#\Pt.4 - Numbers\doubleType\obj\Debug\net9.0\ref\doubleType.dll
