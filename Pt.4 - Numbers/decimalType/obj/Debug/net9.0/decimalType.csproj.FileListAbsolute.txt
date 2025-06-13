@@ -1,0 +1,15 @@
+g:\code\C#\Pt.4 - Numbers\decimalType\bin\Debug\net9.0\decimalType.exe
+g:\code\C#\Pt.4 - Numbers\decimalType\bin\Debug\net9.0\decimalType.deps.json
+g:\code\C#\Pt.4 - Numbers\decimalType\bin\Debug\net9.0\decimalType.runtimeconfig.json
+g:\code\C#\Pt.4 - Numbers\decimalType\bin\Debug\net9.0\decimalType.dll
+g:\code\C#\Pt.4 - Numbers\decimalType\bin\Debug\net9.0\decimalType.pdb
+g:\code\C#\Pt.4 - Numbers\decimalType\obj\Debug\net9.0\decimalType.GeneratedMSBuildEditorConfig.editorconfig
+g:\code\C#\Pt.4 - Numbers\decimalType\obj\Debug\net9.0\decimalType.AssemblyInfoInputs.cache
+g:\code\C#\Pt.4 - Numbers\decimalType\obj\Debug\net9.0\decimalType.AssemblyInfo.cs
+g:\code\C#\Pt.4 - Numbers\decimalType\obj\Debug\net9.0\decimalType.csproj.CoreCompileInputs.cache
+g:\code\C#\Pt.4 - Numbers\decimalType\obj\Debug\net9.0\decimalType.sourcelink.json
+g:\code\C#\Pt.4 - Numbers\decimalType\obj\Debug\net9.0\decimalType.dll
+g:\code\C#\Pt.4 - Numbers\decimalType\obj\Debug\net9.0\refint\decimalType.dll
+g:\code\C#\Pt.4 - Numbers\decimalType\obj\Debug\net9.0\decimalType.pdb
+g:\code\C#\Pt.4 - Numbers\decimalType\obj\Debug\net9.0\decimalType.genruntimeconfig.cache
+g:\code\C#\Pt.4 - Numbers\decimalType\obj\Debug\net9.0\ref\decimalType.dll

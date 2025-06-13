@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\code\\C#\\Pt.4 - Numbers\\decimalType\\decimalType.csproj": {}
+    "g:\\code\\C#\\Pt.4 - Numbers\\decimalType\\decimalType.csproj": {}
   },
   "projects": {
-    "G:\\code\\C#\\Pt.4 - Numbers\\decimalType\\decimalType.csproj": {
+    "g:\\code\\C#\\Pt.4 - Numbers\\decimalType\\decimalType.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\code\\C#\\Pt.4 - Numbers\\decimalType\\decimalType.csproj",
+        "projectUniqueName": "g:\\code\\C#\\Pt.4 - Numbers\\decimalType\\decimalType.csproj",
         "projectName": "decimalType",
-        "projectPath": "G:\\code\\C#\\Pt.4 - Numbers\\decimalType\\decimalType.csproj",
+        "projectPath": "g:\\code\\C#\\Pt.4 - Numbers\\decimalType\\decimalType.csproj",
         "packagesPath": "C:\\Users\\Klevis\\.nuget\\packages\\",
-        "outputPath": "G:\\code\\C#\\Pt.4 - Numbers\\decimalType\\obj\\",
+        "outputPath": "g:\\code\\C#\\Pt.4 - Numbers\\decimalType\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Klevis\\AppData\\Roaming\\NuGet\\NuGet.Config"
