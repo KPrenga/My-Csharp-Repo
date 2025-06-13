@@ -1,0 +1,15 @@
+g:\code\C#\Pt.4 - Numbers\integerMath\bin\Debug\net9.0\integerMath.exe
+G:\code\C#\Pt.4 - Numbers\integerMath\bin\Debug\net9.0\integerMath.deps.json
+G:\code\C#\Pt.4 - Numbers\integerMath\bin\Debug\net9.0\integerMath.runtimeconfig.json
+g:\code\C#\Pt.4 - Numbers\integerMath\bin\Debug\net9.0\integerMath.dll
+g:\code\C#\Pt.4 - Numbers\integerMath\bin\Debug\net9.0\integerMath.pdb
+g:\code\C#\Pt.4 - Numbers\integerMath\obj\Debug\net9.0\integerMath.GeneratedMSBuildEditorConfig.editorconfig
+g:\code\C#\Pt.4 - Numbers\integerMath\obj\Debug\net9.0\integerMath.AssemblyInfoInputs.cache
+g:\code\C#\Pt.4 - Numbers\integerMath\obj\Debug\net9.0\integerMath.AssemblyInfo.cs
+g:\code\C#\Pt.4 - Numbers\integerMath\obj\Debug\net9.0\integerMath.csproj.CoreCompileInputs.cache
+g:\code\C#\Pt.4 - Numbers\integerMath\obj\Debug\net9.0\integerMath.sourcelink.json
+g:\code\C#\Pt.4 - Numbers\integerMath\obj\Debug\net9.0\integerMath.dll
+g:\code\C#\Pt.4 - Numbers\integerMath\obj\Debug\net9.0\refint\integerMath.dll
+g:\code\C#\Pt.4 - Numbers\integerMath\obj\Debug\net9.0\integerMath.pdb
+G:\code\C#\Pt.4 - Numbers\integerMath\obj\Debug\net9.0\integerMath.genruntimeconfig.cache
+G:\code\C#\Pt.4 - Numbers\integerMath\obj\Debug\net9.0\ref\integerMath.dll
