@@ -1,0 +1,15 @@
+g:\code\C#\Pt.4 - Numbers\precisionLimits\bin\Debug\net9.0\precisionLimits.exe
+g:\code\C#\Pt.4 - Numbers\precisionLimits\bin\Debug\net9.0\precisionLimits.deps.json
+g:\code\C#\Pt.4 - Numbers\precisionLimits\bin\Debug\net9.0\precisionLimits.runtimeconfig.json
+g:\code\C#\Pt.4 - Numbers\precisionLimits\bin\Debug\net9.0\precisionLimits.dll
+g:\code\C#\Pt.4 - Numbers\precisionLimits\bin\Debug\net9.0\precisionLimits.pdb
+g:\code\C#\Pt.4 - Numbers\precisionLimits\obj\Debug\net9.0\precisionLimits.GeneratedMSBuildEditorConfig.editorconfig
+g:\code\C#\Pt.4 - Numbers\precisionLimits\obj\Debug\net9.0\precisionLimits.AssemblyInfoInputs.cache
+g:\code\C#\Pt.4 - Numbers\precisionLimits\obj\Debug\net9.0\precisionLimits.AssemblyInfo.cs
+g:\code\C#\Pt.4 - Numbers\precisionLimits\obj\Debug\net9.0\precisionLimits.csproj.CoreCompileInputs.cache
+g:\code\C#\Pt.4 - Numbers\precisionLimits\obj\Debug\net9.0\precisionLimits.sourcelink.json
+g:\code\C#\Pt.4 - Numbers\precisionLimits\obj\Debug\net9.0\precisionLimits.dll
+g:\code\C#\Pt.4 - Numbers\precisionLimits\obj\Debug\net9.0\refint\precisionLimits.dll
+g:\code\C#\Pt.4 - Numbers\precisionLimits\obj\Debug\net9.0\precisionLimits.pdb
+g:\code\C#\Pt.4 - Numbers\precisionLimits\obj\Debug\net9.0\precisionLimits.genruntimeconfig.cache
+g:\code\C#\Pt.4 - Numbers\precisionLimits\obj\Debug\net9.0\ref\precisionLimits.dll
