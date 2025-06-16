@@ -1,0 +1,15 @@
+g:\code\C#\Pt.5 - Types\recordType\bin\Debug\net9.0\recordType.exe
+G:\code\C#\Pt.5 - Types\recordType\bin\Debug\net9.0\recordType.deps.json
+G:\code\C#\Pt.5 - Types\recordType\bin\Debug\net9.0\recordType.runtimeconfig.json
+g:\code\C#\Pt.5 - Types\recordType\bin\Debug\net9.0\recordType.dll
+g:\code\C#\Pt.5 - Types\recordType\bin\Debug\net9.0\recordType.pdb
+g:\code\C#\Pt.5 - Types\recordType\obj\Debug\net9.0\recordType.GeneratedMSBuildEditorConfig.editorconfig
+g:\code\C#\Pt.5 - Types\recordType\obj\Debug\net9.0\recordType.AssemblyInfoInputs.cache
+g:\code\C#\Pt.5 - Types\recordType\obj\Debug\net9.0\recordType.AssemblyInfo.cs
+g:\code\C#\Pt.5 - Types\recordType\obj\Debug\net9.0\recordType.csproj.CoreCompileInputs.cache
+g:\code\C#\Pt.5 - Types\recordType\obj\Debug\net9.0\recordType.sourcelink.json
+g:\code\C#\Pt.5 - Types\recordType\obj\Debug\net9.0\recordType.dll
+g:\code\C#\Pt.5 - Types\recordType\obj\Debug\net9.0\refint\recordType.dll
+g:\code\C#\Pt.5 - Types\recordType\obj\Debug\net9.0\recordType.pdb
+G:\code\C#\Pt.5 - Types\recordType\obj\Debug\net9.0\recordType.genruntimeconfig.cache
+G:\code\C#\Pt.5 - Types\recordType\obj\Debug\net9.0\ref\recordType.dll
