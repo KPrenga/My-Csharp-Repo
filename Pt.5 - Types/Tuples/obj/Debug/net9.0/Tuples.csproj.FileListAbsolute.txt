@@ -1,0 +1,15 @@
+g:\code\C#\Pt.5 - Types\Tuples\bin\Debug\net9.0\Tuples.exe
+G:\code\C#\Pt.5 - Types\Tuples\bin\Debug\net9.0\Tuples.deps.json
+G:\code\C#\Pt.5 - Types\Tuples\bin\Debug\net9.0\Tuples.runtimeconfig.json
+g:\code\C#\Pt.5 - Types\Tuples\bin\Debug\net9.0\Tuples.dll
+g:\code\C#\Pt.5 - Types\Tuples\bin\Debug\net9.0\Tuples.pdb
+g:\code\C#\Pt.5 - Types\Tuples\obj\Debug\net9.0\Tuples.GeneratedMSBuildEditorConfig.editorconfig
+g:\code\C#\Pt.5 - Types\Tuples\obj\Debug\net9.0\Tuples.AssemblyInfoInputs.cache
+g:\code\C#\Pt.5 - Types\Tuples\obj\Debug\net9.0\Tuples.AssemblyInfo.cs
+g:\code\C#\Pt.5 - Types\Tuples\obj\Debug\net9.0\Tuples.csproj.CoreCompileInputs.cache
+g:\code\C#\Pt.5 - Types\Tuples\obj\Debug\net9.0\Tuples.sourcelink.json
+g:\code\C#\Pt.5 - Types\Tuples\obj\Debug\net9.0\Tuples.dll
+g:\code\C#\Pt.5 - Types\Tuples\obj\Debug\net9.0\refint\Tuples.dll
+g:\code\C#\Pt.5 - Types\Tuples\obj\Debug\net9.0\Tuples.pdb
+G:\code\C#\Pt.5 - Types\Tuples\obj\Debug\net9.0\Tuples.genruntimeconfig.cache
+G:\code\C#\Pt.5 - Types\Tuples\obj\Debug\net9.0\ref\Tuples.dll
