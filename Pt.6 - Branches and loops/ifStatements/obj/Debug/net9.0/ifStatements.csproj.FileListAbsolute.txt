@@ -1,0 +1,15 @@
+g:\code\C#\Pt.6 - Branches and loops\ifStatements\bin\Debug\net9.0\ifStatements.exe
+G:\code\C#\Pt.6 - Branches and loops\ifStatements\bin\Debug\net9.0\ifStatements.deps.json
+G:\code\C#\Pt.6 - Branches and loops\ifStatements\bin\Debug\net9.0\ifStatements.runtimeconfig.json
+g:\code\C#\Pt.6 - Branches and loops\ifStatements\bin\Debug\net9.0\ifStatements.dll
+g:\code\C#\Pt.6 - Branches and loops\ifStatements\bin\Debug\net9.0\ifStatements.pdb
+g:\code\C#\Pt.6 - Branches and loops\ifStatements\obj\Debug\net9.0\ifStatements.GeneratedMSBuildEditorConfig.editorconfig
+g:\code\C#\Pt.6 - Branches and loops\ifStatements\obj\Debug\net9.0\ifStatements.AssemblyInfoInputs.cache
+g:\code\C#\Pt.6 - Branches and loops\ifStatements\obj\Debug\net9.0\ifStatements.AssemblyInfo.cs
+g:\code\C#\Pt.6 - Branches and loops\ifStatements\obj\Debug\net9.0\ifStatements.csproj.CoreCompileInputs.cache
+g:\code\C#\Pt.6 - Branches and loops\ifStatements\obj\Debug\net9.0\ifStatements.sourcelink.json
+g:\code\C#\Pt.6 - Branches and loops\ifStatements\obj\Debug\net9.0\ifStatements.dll
+g:\code\C#\Pt.6 - Branches and loops\ifStatements\obj\Debug\net9.0\refint\ifStatements.dll
+g:\code\C#\Pt.6 - Branches and loops\ifStatements\obj\Debug\net9.0\ifStatements.pdb
+G:\code\C#\Pt.6 - Branches and loops\ifStatements\obj\Debug\net9.0\ifStatements.genruntimeconfig.cache
+G:\code\C#\Pt.6 - Branches and loops\ifStatements\obj\Debug\net9.0\ref\ifStatements.dll
