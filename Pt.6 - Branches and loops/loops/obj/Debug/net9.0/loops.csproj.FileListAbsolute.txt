@@ -1,0 +1,15 @@
+g:\code\C#\Pt.6 - Branches and loops\loops\bin\Debug\net9.0\loops.exe
+G:\code\C#\Pt.6 - Branches and loops\loops\bin\Debug\net9.0\loops.deps.json
+G:\code\C#\Pt.6 - Branches and loops\loops\bin\Debug\net9.0\loops.runtimeconfig.json
+g:\code\C#\Pt.6 - Branches and loops\loops\bin\Debug\net9.0\loops.dll
+g:\code\C#\Pt.6 - Branches and loops\loops\bin\Debug\net9.0\loops.pdb
+g:\code\C#\Pt.6 - Branches and loops\loops\obj\Debug\net9.0\loops.GeneratedMSBuildEditorConfig.editorconfig
+g:\code\C#\Pt.6 - Branches and loops\loops\obj\Debug\net9.0\loops.AssemblyInfoInputs.cache
+g:\code\C#\Pt.6 - Branches and loops\loops\obj\Debug\net9.0\loops.AssemblyInfo.cs
+g:\code\C#\Pt.6 - Branches and loops\loops\obj\Debug\net9.0\loops.csproj.CoreCompileInputs.cache
+g:\code\C#\Pt.6 - Branches and loops\loops\obj\Debug\net9.0\loops.sourcelink.json
+g:\code\C#\Pt.6 - Branches and loops\loops\obj\Debug\net9.0\loops.dll
+g:\code\C#\Pt.6 - Branches and loops\loops\obj\Debug\net9.0\refint\loops.dll
+g:\code\C#\Pt.6 - Branches and loops\loops\obj\Debug\net9.0\loops.pdb
+G:\code\C#\Pt.6 - Branches and loops\loops\obj\Debug\net9.0\loops.genruntimeconfig.cache
+G:\code\C#\Pt.6 - Branches and loops\loops\obj\Debug\net9.0\ref\loops.dll
