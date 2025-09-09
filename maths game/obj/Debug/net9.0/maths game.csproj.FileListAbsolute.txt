@@ -1,0 +1,15 @@
+g:\code\C#\maths game\bin\Debug\net9.0\maths game.exe
+G:\code\C#\maths game\bin\Debug\net9.0\maths game.deps.json
+G:\code\C#\maths game\bin\Debug\net9.0\maths game.runtimeconfig.json
+g:\code\C#\maths game\bin\Debug\net9.0\maths game.dll
+g:\code\C#\maths game\bin\Debug\net9.0\maths game.pdb
+g:\code\C#\maths game\obj\Debug\net9.0\maths game.GeneratedMSBuildEditorConfig.editorconfig
+g:\code\C#\maths game\obj\Debug\net9.0\maths game.AssemblyInfoInputs.cache
+g:\code\C#\maths game\obj\Debug\net9.0\maths game.AssemblyInfo.cs
+g:\code\C#\maths game\obj\Debug\net9.0\maths game.csproj.CoreCompileInputs.cache
+g:\code\C#\maths game\obj\Debug\net9.0\maths game.sourcelink.json
+g:\code\C#\maths game\obj\Debug\net9.0\maths game.dll
+g:\code\C#\maths game\obj\Debug\net9.0\refint\maths game.dll
+g:\code\C#\maths game\obj\Debug\net9.0\maths game.pdb
+G:\code\C#\maths game\obj\Debug\net9.0\maths game.genruntimeconfig.cache
+G:\code\C#\maths game\obj\Debug\net9.0\ref\maths game.dll
