@@ -37,21 +37,26 @@ void SubtractionGame(string message)
 {
     Console.WriteLine(message);
 
-    int rnd1, rnd2;
-    RandomNumGen(out rnd1, out rnd2);
-    int sum = rnd1 - rnd2;
+    for (int i = 0; i < 1;)
+    {
 
-    Console.WriteLine($"{rnd1} - {rnd2}");
-    int Answer = Convert.ToInt32(Console.ReadLine());
-    if (Answer == sum)
-    {
-        Console.WriteLine("That Is Correct!");
-    }
-    else
-    {
-        Console.WriteLine(@$"Oops, That is Incorrect
+        int rnd1, rnd2;
+        RandomNumGen(out rnd1, out rnd2);
+        int sum = rnd1 - rnd2;
+
+        Console.WriteLine($"{rnd1} - {rnd2}");
+        int Answer = Convert.ToInt32(Console.ReadLine());
+        if (Answer == sum)
+        {
+            Console.WriteLine("That Is Correct!");
+        }
+        else
+        {
+            Console.WriteLine(@$"Oops, That is Incorrect
         The Answer was {sum}
         ");
+            i++;
+        }
     }
 }
 
@@ -59,21 +64,25 @@ void MultiplicationGame(string message)
 {
     Console.WriteLine(message);
 
-    int rnd1, rnd2;
-    RandomNumGen(out rnd1, out rnd2);
-    int sum = rnd1 * rnd2;
+    for (int i = 0; i < 1;)
+    {
+        int rnd1, rnd2;
+        RandomNumGen(out rnd1, out rnd2);
+        int sum = rnd1 * rnd2;
 
-    Console.WriteLine($"{rnd1} x {rnd2}");
-    int Answer = Convert.ToInt32(Console.ReadLine());
-    if (Answer == sum)
-    {
-        Console.WriteLine("That Is Correct!");
-    }
-    else
-    {
-        Console.WriteLine(@$"Oops, That is Incorrect
+        Console.WriteLine($"{rnd1} x {rnd2}");
+        int Answer = Convert.ToInt32(Console.ReadLine());
+        if (Answer == sum)
+        {
+            Console.WriteLine("That Is Correct!");
+        }
+        else
+        {
+            Console.WriteLine(@$"Oops, That is Incorrect
         The Answer was {sum}
         ");
+            i++;
+        }
     }
 }
 
@@ -81,24 +90,29 @@ void DivisionGame(string message)
 {
     Console.WriteLine(message);
 
-    int rnd1, rnd2;
-    RandomNumGen(out rnd1, out rnd2);
-
-    int sum = rnd1 / rnd2;
-
-    Console.WriteLine($"{rnd1} ÷ {rnd2}");
-    int Answer = Convert.ToInt32(Console.ReadLine());
-
-
-    if (Answer == sum)
+    for (int i = 0; i < 1;)
     {
-        Console.WriteLine("That Is Correct!");
-    }
-    else
-    {
-        Console.WriteLine(@$"Oops, That is Incorrect
+
+        int rnd1, rnd2;
+        RandomNumGen(out rnd1, out rnd2);
+
+        int sum = rnd1 / rnd2;
+
+        Console.WriteLine($"{rnd1} ÷ {rnd2}");
+        int Answer = Convert.ToInt32(Console.ReadLine());
+
+
+        if (Answer == sum)
+        {
+            Console.WriteLine("That Is Correct!");
+        }
+        else
+        {
+            Console.WriteLine(@$"Oops, That is Incorrect
         The Answer was {sum}
         ");
+            i++;
+        }
     }
 }
 
