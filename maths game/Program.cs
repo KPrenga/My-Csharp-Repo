@@ -15,7 +15,7 @@ while (true)
 void AdditionGame(string message)
 {
     Console.WriteLine(message);
-    for (int i = 0; i < 1;)
+    for (int i = 0; i < 3;)
     {
         int rnd1, rnd2;
         RandomNumGen(out rnd1, out rnd2);
@@ -35,6 +35,7 @@ void AdditionGame(string message)
         The Answer was {sum}
         
         ");
+        Questions.Enqueue($"{rnd1} + {rnd2} = {Answer} X  Answer: {sum}");
             i++;
         }
     }
@@ -44,7 +45,7 @@ void SubtractionGame(string message)
 {
     Console.WriteLine(message);
 
-    for (int i = 0; i < 1;)
+    for (int i = 0; i < 3;)
     {
 
         int rnd1, rnd2;
@@ -56,12 +57,14 @@ void SubtractionGame(string message)
         if (Answer == sum)
         {
             Console.WriteLine("That Is Correct!");
+            Questions.Enqueue($"{rnd1} - {rnd2} = {Answer} {tick}");
         }
         else
         {
             Console.WriteLine(@$"Oops, That is Incorrect
         The Answer was {sum}
         ");
+        Questions.Enqueue($"{rnd1} - {rnd2} = {Answer} X  Answer: {sum}");
             i++;
         }
     }
@@ -71,7 +74,7 @@ void MultiplicationGame(string message)
 {
     Console.WriteLine(message);
 
-    for (int i = 0; i < 1;)
+    for (int i = 0; i < 3;)
     {
         int rnd1, rnd2;
         RandomNumGen(out rnd1, out rnd2);
@@ -82,12 +85,14 @@ void MultiplicationGame(string message)
         if (Answer == sum)
         {
             Console.WriteLine("That Is Correct!");
+            Questions.Enqueue($"{rnd1} x {rnd2} = {Answer} {tick}");
         }
         else
         {
             Console.WriteLine(@$"Oops, That is Incorrect
         The Answer was {sum}
         ");
+        Questions.Enqueue($"{rnd1} x {rnd2} = {Answer} X  Answer: {sum}");
             i++;
         }
     }
@@ -97,7 +102,7 @@ void DivisionGame(string message)
 {
     Console.WriteLine(message);
 
-    for (int i = 0; i < 1;)
+    for (int i = 0; i < 3;)
     {
 
         int rnd1, rnd2;
@@ -118,24 +123,30 @@ void DivisionGame(string message)
             if (Answer == sum)
             {
                 Console.WriteLine("That Is Correct!");
+                Questions.Enqueue($"{rnd1} ÷ {rnd2} = {Answer} {tick}");
             }
             else
             {
                 Console.WriteLine(@$"Oops, That is Incorrect
                 The Answer was {sum}
                 ");
+                Questions.Enqueue($"{rnd1} ÷ {rnd2} = {Answer} X  Answer: {sum}");
                 i++;
             }
         }
     }
 }
-
 void AnsweredQuestion()
-{
+{   
+    string title = "Previous Questions";
+    Console.WriteLine(title);
+    Console.WriteLine(new string ('‾',title.Length));
     foreach (var i in Questions)
     {
         Console.WriteLine(i);
     }
+    Console.WriteLine("Enter to return to menu");
+    Console.ReadLine();
 
 }
 
@@ -198,7 +209,7 @@ void MenuMethod()
             AnsweredQuestion();
             break;
         default:
-            Console.WriteLine("Incorrect Input");
+            Console.WriteLine("Incorrect Input\n");
             break;
 
     }
