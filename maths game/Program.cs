@@ -136,14 +136,11 @@ void AnsweredQuestion()
     {
         Console.WriteLine(i);
     }
-    
+
 }
 
 void MenuMethod()
 {
-
-
-
     Console.WriteLine(@$"Please Enter An Operation
 1 - Addition
 2 - Subtraction
