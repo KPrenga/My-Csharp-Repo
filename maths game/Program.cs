@@ -3,8 +3,11 @@ using System.ComponentModel.Design;
 
 
 
+while (true)
+{
+    MenuMethod();
+}
 
-MenuMethod();
 
 void AdditionGame(string message)
 {
@@ -97,27 +100,38 @@ void DivisionGame(string message)
         RandomNumGen(out rnd1, out rnd2);
 
         int sum = rnd1 / rnd2;
+        double remainder = rnd1 % rnd2;
 
-        Console.WriteLine($"{rnd1} ÷ {rnd2}");
-        int Answer = Convert.ToInt32(Console.ReadLine());
-
-
-        if (Answer == sum)
+        if (remainder == 0)
         {
-            Console.WriteLine("That Is Correct!");
-        }
-        else
-        {
-            Console.WriteLine(@$"Oops, That is Incorrect
-        The Answer was {sum}
-        ");
-            i++;
+
+
+
+            Console.WriteLine($"{rnd1} ÷ {rnd2}");
+            int Answer = Convert.ToInt32(Console.ReadLine());
+
+
+            if (Answer == sum)
+            {
+                Console.WriteLine("That Is Correct!");
+            }
+            else
+            {
+                Console.WriteLine(@$"Oops, That is Incorrect
+                The Answer was {sum}
+                ");
+                i++;
+            }
         }
     }
 }
 
 void MenuMethod()
 {
+    int i = 0;
+
+
+
     Console.WriteLine(@$"Please Enter An Operation
 1 - Addition
 2 - Subtraction
@@ -128,6 +142,7 @@ void MenuMethod()
 
     int Selection = 20;
     bool isValidInput = false;
+
 
     // 1. Loop until a valid integer is entered
     while (!isValidInput)
@@ -146,6 +161,10 @@ void MenuMethod()
             Console.WriteLine("Invalid input. Please enter a number.");
         }
     }
+
+
+
+
 
     switch (Selection)
     {
