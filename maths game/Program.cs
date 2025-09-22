@@ -1,6 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System.Collections;
 using System.ComponentModel.Design;
+String tick = "✔";
 
+Queue<string> Questions = new Queue<string>();
 
 
 while (true)
@@ -23,11 +26,12 @@ void AdditionGame(string message)
         int Answer = Convert.ToInt32(Console.ReadLine());
         if (Answer == sum)
         {
-            Console.WriteLine("That is Correct!");
+            Console.WriteLine($"{tick} That is Correct!");
+            Questions.Enqueue($"{rnd1} + {rnd2} = {Answer} {tick}");
         }
         else
         {
-            Console.WriteLine(@$"Oops, That is Incorrect
+            Console.WriteLine(@$"X  Oops, That is Incorrect
         The Answer was {sum}
         
         ");
@@ -126,9 +130,17 @@ void DivisionGame(string message)
     }
 }
 
+void AnsweredQuestion()
+{
+    foreach (var i in Questions)
+    {
+        Console.WriteLine(i);
+    }
+    
+}
+
 void MenuMethod()
 {
-    int i = 0;
 
 
 
@@ -137,6 +149,7 @@ void MenuMethod()
 2 - Subtraction
 3 - Multiplication
 4 - Division
+5 - Answered Questions
 0 - Quit
 ");
 
@@ -183,6 +196,9 @@ void MenuMethod()
             break;
         case 4:
             DivisionGame("Division Game Selected\nSolve This Question:\n");
+            break;
+        case 5:
+            AnsweredQuestion();
             break;
         default:
             Console.WriteLine("Incorrect Input");
