@@ -12,6 +12,8 @@ class Program
         Console.WriteLine(title);
         Console.WriteLine(new string('-', title.Length) + "\n");
 
+        Calculator calculator= new Calculator();    
+
         while (!endApp)
         {
             //declare variables as empty and nullable(?)
@@ -60,7 +62,7 @@ class Program
             {
                 try
                 {
-                    result = Calculator.DoCalculation(cleanNum1, cleanNum2, op);
+                    result = calculator.DoCalculation(cleanNum1, cleanNum2, op);
                     if (double.IsNaN(result))
                     {
                         Console.WriteLine("Operation results in mathmatical error\n");
