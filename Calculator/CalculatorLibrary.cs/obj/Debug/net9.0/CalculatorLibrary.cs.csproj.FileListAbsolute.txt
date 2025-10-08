@@ -10,3 +10,4 @@ G:\code\C#\Calculator\CalculatorLibrary.cs\obj\Debug\net9.0\CalculatorLibrary.cs
 G:\code\C#\Calculator\CalculatorLibrary.cs\obj\Debug\net9.0\refint\CalculatorLibrary.cs.dll
 G:\code\C#\Calculator\CalculatorLibrary.cs\obj\Debug\net9.0\CalculatorLibrary.cs.pdb
 G:\code\C#\Calculator\CalculatorLibrary.cs\obj\Debug\net9.0\ref\CalculatorLibrary.cs.dll
+G:\code\C#\Calculator\CalculatorLibrary.cs\obj\Debug\net9.0\CalculatorLibrary.cs.csproj.AssemblyReference.cache

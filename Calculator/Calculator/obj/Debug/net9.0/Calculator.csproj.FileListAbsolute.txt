@@ -17,3 +17,4 @@ G:\code\C#\Calculator\Calculator\bin\Debug\net9.0\CalculatorLibrary.cs.dll
 G:\code\C#\Calculator\Calculator\bin\Debug\net9.0\CalculatorLibrary.cs.pdb
 G:\code\C#\Calculator\Calculator\obj\Debug\net9.0\Calculator.csproj.AssemblyReference.cache
 G:\code\C#\Calculator\Calculator\obj\Debug\net9.0\Calculator.csproj.Up2Date
+G:\code\C#\Calculator\Calculator\bin\Debug\net9.0\Newtonsoft.Json.dll
