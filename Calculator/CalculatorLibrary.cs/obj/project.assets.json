@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {
-      "CalculatorLibrary.cs/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v9.0",
-        "compile": {
-          "bin/placeholder/CalculatorLibrary.cs.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CalculatorLibrary.cs.dll": {}
-        }
-      }
-    }
+    "net9.0": {}
   },
-  "libraries": {
-    "CalculatorLibrary.cs/1.0.0": {
-      "type": "project",
-      "path": "../CalculatorLibrary.cs/CalculatorLibrary.cs.csproj",
-      "msbuildProject": "../CalculatorLibrary.cs/CalculatorLibrary.cs.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net9.0": [
-      "CalculatorLibrary.cs >= 1.0.0"
-    ]
+    "net9.0": []
   },
   "packageFolders": {
     "C:\\Users\\Klevis\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\code\\C#\\Calculator\\Calculator\\Calculator.csproj",
-      "projectName": "Calculator",
-      "projectPath": "G:\\code\\C#\\Calculator\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "G:\\code\\C#\\Calculator\\CalculatorLibrary.cs\\CalculatorLibrary.cs.csproj",
+      "projectName": "CalculatorLibrary.cs",
+      "projectPath": "G:\\code\\C#\\Calculator\\CalculatorLibrary.cs\\CalculatorLibrary.cs.csproj",
       "packagesPath": "C:\\Users\\Klevis\\.nuget\\packages\\",
-      "outputPath": "G:\\code\\C#\\Calculator\\Calculator\\obj\\",
+      "outputPath": "G:\\code\\C#\\Calculator\\CalculatorLibrary.cs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Klevis\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,11 +31,7 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {
-            "G:\\code\\C#\\Calculator\\CalculatorLibrary.cs\\CalculatorLibrary.cs.csproj": {
-              "projectPath": "G:\\code\\C#\\Calculator\\CalculatorLibrary.cs\\CalculatorLibrary.cs.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

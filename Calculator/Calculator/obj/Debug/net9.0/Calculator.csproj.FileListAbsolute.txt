@@ -13,3 +13,7 @@ G:\code\C#\Calculator\Calculator\obj\Debug\net9.0\refint\Calculator.dll
 G:\code\C#\Calculator\Calculator\obj\Debug\net9.0\Calculator.pdb
 G:\code\C#\Calculator\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
 G:\code\C#\Calculator\Calculator\obj\Debug\net9.0\ref\Calculator.dll
+G:\code\C#\Calculator\Calculator\bin\Debug\net9.0\CalculatorLibrary.cs.dll
+G:\code\C#\Calculator\Calculator\bin\Debug\net9.0\CalculatorLibrary.cs.pdb
+G:\code\C#\Calculator\Calculator\obj\Debug\net9.0\Calculator.csproj.AssemblyReference.cache
+G:\code\C#\Calculator\Calculator\obj\Debug\net9.0\Calculator.csproj.Up2Date

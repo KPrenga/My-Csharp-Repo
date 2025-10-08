@@ -1,0 +1,12 @@
+G:\code\C#\Calculator\CalculatorLibrary.cs\bin\Debug\net9.0\CalculatorLibrary.cs.deps.json
+G:\code\C#\Calculator\CalculatorLibrary.cs\bin\Debug\net9.0\CalculatorLibrary.cs.dll
+G:\code\C#\Calculator\CalculatorLibrary.cs\bin\Debug\net9.0\CalculatorLibrary.cs.pdb
+G:\code\C#\Calculator\CalculatorLibrary.cs\obj\Debug\net9.0\CalculatorLibrary.cs.GeneratedMSBuildEditorConfig.editorconfig
+G:\code\C#\Calculator\CalculatorLibrary.cs\obj\Debug\net9.0\CalculatorLibrary.cs.AssemblyInfoInputs.cache
+G:\code\C#\Calculator\CalculatorLibrary.cs\obj\Debug\net9.0\CalculatorLibrary.cs.AssemblyInfo.cs
+G:\code\C#\Calculator\CalculatorLibrary.cs\obj\Debug\net9.0\CalculatorLibrary.cs.csproj.CoreCompileInputs.cache
+G:\code\C#\Calculator\CalculatorLibrary.cs\obj\Debug\net9.0\CalculatorLibrary.cs.sourcelink.json
+G:\code\C#\Calculator\CalculatorLibrary.cs\obj\Debug\net9.0\CalculatorLibrary.cs.dll
+G:\code\C#\Calculator\CalculatorLibrary.cs\obj\Debug\net9.0\refint\CalculatorLibrary.cs.dll
+G:\code\C#\Calculator\CalculatorLibrary.cs\obj\Debug\net9.0\CalculatorLibrary.cs.pdb
+G:\code\C#\Calculator\CalculatorLibrary.cs\obj\Debug\net9.0\ref\CalculatorLibrary.cs.dll
