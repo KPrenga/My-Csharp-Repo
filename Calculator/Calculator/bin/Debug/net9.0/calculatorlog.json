@@ -1,28 +1,28 @@
 {
   "Operations": [
     {
-      "Operand1": 34.0,
-      "Operand2": 23.0,
+      "Operand1": 1.0,
+      "Operand2": 3.0,
       "Operation": "Add",
-      "Result": 57.0
+      "Result": 4.0
     },
     {
-      "Operand1": 43.0,
-      "Operand2": 54.0,
+      "Operand1": 1.0,
+      "Operand2": 3.0,
       "Operation": "Subtract",
-      "Result": -11.0
+      "Result": -2.0
     },
     {
-      "Operand1": 12.0,
-      "Operand2": 56.0,
+      "Operand1": 1.0,
+      "Operand2": 3.0,
       "Operation": "Multiply",
-      "Result": 672.0
+      "Result": 3.0
     },
     {
-      "Operand1": 76.0,
-      "Operand2": 21.0,
+      "Operand1": 1.0,
+      "Operand2": 3.0,
       "Operation": "Divide",
-      "Result": 3.619047619047619
+      "Result": 0.3333333333333333
     }
   ]
 }
